@@ -1,0 +1,7 @@
+GCId,Type,Cause,UsedHeap,PauseTime
+7,ParallelScavenge,Allocation Failure,68053128,9778045
+8,ParallelScavenge,Metadata GC Threshold,62676680,4242670
+9,ParallelOld,Metadata GC Threshold,12711336,74527818
+10,ParallelScavenge,Allocation Failure,89888208,3438255
+11,ParallelScavenge,Allocation Failure,91108816,3242951
+12,ParallelScavenge,Allocation Failure,118896080,2919155

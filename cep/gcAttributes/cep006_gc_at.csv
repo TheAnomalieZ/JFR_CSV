@@ -1,0 +1,282 @@
+GCId,Type,Cause,UsedHeap,PauseTime
+75,ParallelScavenge,Allocation Failure,262059240,5283261
+76,ParallelScavenge,Allocation Failure,258692328,3029550
+77,ParallelScavenge,Allocation Failure,255087848,6936170
+78,ParallelScavenge,Allocation Failure,252040424,6157671
+79,ParallelScavenge,Allocation Failure,248960232,6786877
+80,ParallelScavenge,Allocation Failure,245912808,3569272
+81,ParallelScavenge,Allocation Failure,242898152,5252587
+82,ParallelScavenge,System.gc(),193408192,7417650
+83,ParallelOld,System.gc(),94598376,227863496
+84,ParallelScavenge,Allocation Failure,239661064,3942202
+85,ParallelScavenge,Allocation Failure,237269000,5159252
+86,ParallelScavenge,Allocation Failure,234745864,6350666
+87,ParallelScavenge,Allocation Failure,232157192,3037442
+88,ParallelScavenge,Allocation Failure,229601288,4360258
+89,ParallelScavenge,Allocation Failure,227110920,3835190
+90,ParallelScavenge,Allocation Failure,224522248,4205140
+91,ParallelScavenge,Allocation Failure,222490632,5220836
+92,ParallelScavenge,System.gc(),213046000,5658620
+93,ParallelOld,System.gc(),95260680,129661127
+94,ParallelScavenge,Allocation Failure,220412808,5219383
+95,ParallelScavenge,Allocation Failure,218520456,5701444
+96,ParallelScavenge,Allocation Failure,216554376,3822121
+97,ParallelScavenge,Allocation Failure,214489992,5857032
+98,ParallelScavenge,Allocation Failure,212466568,3319205
+99,ParallelScavenge,Allocation Failure,210434952,5304951
+100,ParallelScavenge,Allocation Failure,208403336,3268141
+101,ParallelScavenge,Allocation Failure,206928776,5513509
+102,ParallelScavenge,Allocation Failure,205421448,4682771
+103,ParallelScavenge,Allocation Failure,203848584,2647762
+104,ParallelScavenge,System.gc(),138236704,3757163
+105,ParallelOld,System.gc(),95943560,112551863
+106,ParallelScavenge,Allocation Failure,202213048,2677204
+107,ParallelScavenge,Allocation Failure,200804024,2972341
+108,ParallelScavenge,Allocation Failure,199296696,5165930
+109,ParallelScavenge,Allocation Failure,197789368,5384097
+110,ParallelScavenge,Allocation Failure,196282040,4036870
+111,ParallelScavenge,Allocation Failure,194782904,4457303
+112,ParallelScavenge,Allocation Failure,193308344,4568259
+113,ParallelScavenge,Allocation Failure,191735480,5097806
+114,ParallelScavenge,Allocation Failure,190752440,4408365
+115,ParallelScavenge,Allocation Failure,189736632,5532099
+116,ParallelScavenge,Allocation Failure,188761784,3475262
+117,ParallelScavenge,Allocation Failure,187811512,5423260
+118,ParallelScavenge,System.gc(),125549368,4064755
+119,ParallelOld,System.gc(),96585400,117269404
+120,ParallelScavenge,Allocation Failure,186622440,3624143
+121,ParallelScavenge,Allocation Failure,185737704,5049541
+122,ParallelScavenge,Allocation Failure,184721896,5772795
+123,ParallelScavenge,Allocation Failure,183771624,5637523
+124,ParallelScavenge,Allocation Failure,211591656,3169342
+125,ParallelScavenge,Allocation Failure,209560040,6526135
+126,ParallelScavenge,Allocation Failure,208085480,5530454
+127,ParallelScavenge,Allocation Failure,206545384,4060165
+128,ParallelScavenge,Allocation Failure,205005288,4888452
+129,ParallelScavenge,Allocation Failure,203530728,6058563
+130,ParallelScavenge,Allocation Failure,201990632,4642597
+131,ParallelScavenge,System.gc(),175724576,5816140
+132,ParallelOld,System.gc(),97280488,169235254
+133,ParallelScavenge,Allocation Failure,200386080,3853650
+134,ParallelScavenge,Allocation Failure,199009824,4946191
+135,ParallelScavenge,Allocation Failure,197502496,3833871
+136,ParallelScavenge,Allocation Failure,195995168,3076252
+137,ParallelScavenge,Allocation Failure,194455072,4918757
+138,ParallelScavenge,Allocation Failure,192955936,4607400
+139,ParallelScavenge,Allocation Failure,191940128,4133991
+140,ParallelScavenge,Allocation Failure,190989856,6216357
+141,ParallelScavenge,Allocation Failure,189974048,3773399
+142,ParallelScavenge,Allocation Failure,188892704,6895615
+143,ParallelScavenge,Allocation Failure,187975200,5057185
+144,ParallelScavenge,Allocation Failure,186959392,3478204
+145,ParallelScavenge,System.gc(),150883088,5112445
+146,ParallelOld,System.gc(),97871392,143210916
+147,ParallelScavenge,Allocation Failure,183989808,5369761
+148,ParallelScavenge,Allocation Failure,184677936,6162621
+149,ParallelScavenge,Allocation Failure,183694896,5434534
+150,ParallelScavenge,Allocation Failure,206304816,4477508
+151,ParallelScavenge,Allocation Failure,204797488,5498840
+152,ParallelScavenge,Allocation Failure,203322928,5353444
+153,ParallelScavenge,Allocation Failure,201782832,3133883
+154,ParallelScavenge,Allocation Failure,200242736,5646196
+155,ParallelScavenge,Allocation Failure,198702640,3938056
+156,ParallelScavenge,Allocation Failure,197228080,4725418
+157,ParallelScavenge,Allocation Failure,195655216,5512420
+158,ParallelScavenge,Allocation Failure,194180656,6324975
+159,ParallelScavenge,System.gc(),102464872,2598559
+160,ParallelOld,System.gc(),96695856,122966216
+161,ParallelScavenge,Allocation Failure,192507968,2464685
+162,ParallelScavenge,Allocation Failure,191623232,3010346
+163,ParallelScavenge,Allocation Failure,190672960,4826623
+164,ParallelScavenge,Allocation Failure,189689920,6104881
+165,ParallelScavenge,Allocation Failure,188674112,2985506
+166,ParallelScavenge,Allocation Failure,187625536,5068710
+167,ParallelScavenge,Allocation Failure,186675264,3058151
+168,ParallelScavenge,Allocation Failure,185626688,6800015
+169,ParallelScavenge,Allocation Failure,184643648,4749202
+170,ParallelScavenge,Allocation Failure,203583552,3412952
+171,ParallelScavenge,Allocation Failure,202043456,6024863
+172,ParallelScavenge,Allocation Failure,200503360,5742922
+173,ParallelScavenge,System.gc(),156449552,6712158
+174,ParallelOld,System.gc(),97349696,206292435
+175,ParallelScavenge,Allocation Failure,198927408,5441441
+176,ParallelScavenge,Allocation Failure,197551152,2881166
+177,ParallelScavenge,Allocation Failure,196052016,5006910
+178,ParallelScavenge,Allocation Failure,194511920,5675497
+179,ParallelScavenge,Allocation Failure,193004592,4731344
+180,ParallelScavenge,Allocation Failure,192054320,5210094
+181,ParallelScavenge,Allocation Failure,191071280,4095013
+182,ParallelScavenge,Allocation Failure,189989936,2723640
+183,ParallelScavenge,Allocation Failure,189006896,6201498
+184,ParallelScavenge,Allocation Failure,188023856,5797271
+185,ParallelScavenge,Allocation Failure,186934320,6799638
+186,ParallelScavenge,Allocation Failure,186049584,5285588
+187,ParallelScavenge,System.gc(),172173840,5616195
+188,ParallelOld,System.gc(),98067504,193621675
+189,ParallelScavenge,Allocation Failure,201149800,5383113
+190,ParallelScavenge,Allocation Failure,199806312,5067913
+191,ParallelScavenge,Allocation Failure,198266216,4862683
+192,ParallelScavenge,Allocation Failure,196758888,5224053
+193,ParallelScavenge,Allocation Failure,195218792,3162143
+194,ParallelScavenge,Allocation Failure,193711464,3006638
+195,ParallelScavenge,Allocation Failure,192695656,5081490
+196,ParallelScavenge,Allocation Failure,191745384,6206300
+197,ParallelScavenge,Allocation Failure,190762344,4128502
+198,ParallelScavenge,Allocation Failure,189656424,5671927
+199,ParallelScavenge,Allocation Failure,188738920,7040395
+200,ParallelScavenge,Allocation Failure,187723112,3479442
+201,ParallelScavenge,System.gc(),151729608,2833027
+202,ParallelOld,System.gc(),98643304,118557941
+203,ParallelScavenge,Allocation Failure,184175928,3942775
+204,ParallelScavenge,Allocation Failure,184864056,5597520
+205,ParallelScavenge,Allocation Failure,183881016,3846033
+206,ParallelScavenge,Allocation Failure,196529464,4604525
+207,ParallelScavenge,Allocation Failure,194989368,3658940
+208,ParallelScavenge,Allocation Failure,193514808,5680069
+209,ParallelScavenge,Allocation Failure,192015672,4100086
+210,ParallelScavenge,Allocation Failure,190967096,4045474
+211,ParallelScavenge,Allocation Failure,189984056,2949732
+212,ParallelScavenge,Allocation Failure,189001016,5455994
+213,ParallelScavenge,Allocation Failure,187903288,4304243
+214,ParallelScavenge,Allocation Failure,187018552,4687233
+215,ParallelScavenge,System.gc(),182466008,3362033
+216,ParallelOld,System.gc(),96939320,129188590
+217,ParallelScavenge,Allocation Failure,185882872,2908594
+218,ParallelScavenge,Allocation Failure,185030904,3825592
+219,ParallelScavenge,Allocation Failure,195025144,3959970
+220,ParallelScavenge,Allocation Failure,193550584,3443639
+221,ParallelScavenge,Allocation Failure,191977720,3368481
+222,ParallelScavenge,Allocation Failure,190994680,4803803
+223,ParallelScavenge,Allocation Failure,189978872,3962000
+224,ParallelScavenge,Allocation Failure,188995832,4242867
+225,ParallelScavenge,Allocation Failure,187980024,3128412
+226,ParallelScavenge,Allocation Failure,186996984,3080898
+227,ParallelScavenge,Allocation Failure,185981176,5506623
+228,ParallelScavenge,Allocation Failure,184932600,4923270
+229,ParallelScavenge,Allocation Failure,193485048,5263456
+230,ParallelScavenge,System.gc(),97615600,4765743
+231,ParallelOld,System.gc(),97507576,116226033
+232,ParallelScavenge,Allocation Failure,192299304,5033670
+233,ParallelScavenge,Allocation Failure,191447336,3817187
+234,ParallelScavenge,Allocation Failure,190431528,6696274
+235,ParallelScavenge,Allocation Failure,189448488,3769368
+236,ParallelScavenge,Allocation Failure,188498216,5223768
+237,ParallelScavenge,Allocation Failure,187449640,3511270
+238,ParallelScavenge,Allocation Failure,186466600,7248250
+239,ParallelScavenge,Allocation Failure,185385256,3076294
+240,ParallelScavenge,Allocation Failure,191742248,6347420
+241,ParallelScavenge,Allocation Failure,190791976,5453977
+242,ParallelScavenge,Allocation Failure,189776168,4000692
+243,ParallelScavenge,Allocation Failure,188727592,6391077
+244,ParallelScavenge,Allocation Failure,187777320,5797627
+245,ParallelScavenge,System.gc(),108835584,5317212
+246,ParallelOld,System.gc(),98222376,173198697
+247,ParallelScavenge,Allocation Failure,184459360,4521432
+248,ParallelScavenge,Allocation Failure,185180256,5179179
+249,ParallelScavenge,Allocation Failure,184164448,2460077
+250,ParallelScavenge,Allocation Failure,188424288,6169360
+251,ParallelScavenge,Allocation Failure,187441248,4054993
+252,ParallelScavenge,Allocation Failure,186425440,3187826
+253,ParallelScavenge,Allocation Failure,185409632,6341726
+254,ParallelScavenge,Allocation Failure,184426592,6286941
+255,ParallelScavenge,Allocation Failure,187605088,2591226
+256,ParallelScavenge,Allocation Failure,186589280,6892690
+257,ParallelScavenge,Allocation Failure,185606240,5266304
+258,ParallelScavenge,Allocation Failure,184565856,5798327
+259,ParallelScavenge,Allocation Failure,187351136,4582327
+260,ParallelScavenge,System.gc(),136181072,6877099
+261,ParallelOld,System.gc(),96649312,203733780
+262,ParallelScavenge,Allocation Failure,186161808,4397530
+263,ParallelScavenge,Allocation Failure,185309840,4636971
+264,ParallelScavenge,Allocation Failure,184326800,6393869
+265,ParallelScavenge,Allocation Failure,186456720,5469776
+266,ParallelScavenge,Allocation Failure,185473680,5494308
+267,ParallelScavenge,Allocation Failure,184457872,5305255
+268,ParallelScavenge,Allocation Failure,186063504,3236700
+269,ParallelScavenge,Allocation Failure,185146000,4212045
+270,ParallelScavenge,Allocation Failure,186194576,3966022
+271,ParallelScavenge,Allocation Failure,185113232,4915524
+272,ParallelScavenge,Allocation Failure,185768592,4630136
+273,ParallelScavenge,Allocation Failure,184687248,3100372
+274,ParallelScavenge,Allocation Failure,185866896,5774495
+275,ParallelScavenge,System.gc(),146285848,5355002
+276,ParallelOld,System.gc(),97294992,155218697
+277,ParallelScavenge,Allocation Failure,184709488,5561426
+278,ParallelScavenge,Allocation Failure,185430384,6889415
+279,ParallelScavenge,Allocation Failure,185463152,4979845
+280,ParallelScavenge,Allocation Failure,184480112,4638295
+281,ParallelScavenge,Allocation Failure,184512880,5312555
+282,ParallelScavenge,Allocation Failure,184586608,4670396
+283,ParallelScavenge,Allocation Failure,184619376,2665382
+284,ParallelScavenge,Allocation Failure,184684912,4825189
+285,ParallelScavenge,Allocation Failure,184725872,3074859
+286,ParallelScavenge,Allocation Failure,184791408,6349291
+287,ParallelScavenge,Allocation Failure,184832368,3635227
+288,ParallelScavenge,Allocation Failure,184897904,5054333
+289,ParallelScavenge,Allocation Failure,184930672,6816070
+290,ParallelScavenge,System.gc(),167510152,6818538
+291,ParallelOld,System.gc(),97931632,201670408
+292,ParallelScavenge,Allocation Failure,184838392,4878897
+293,ParallelScavenge,Allocation Failure,185067768,4002833
+294,ParallelScavenge,Allocation Failure,185100536,6667475
+295,ParallelScavenge,Allocation Failure,185108728,4287297
+296,ParallelScavenge,Allocation Failure,185182456,5082377
+297,ParallelScavenge,Allocation Failure,185256184,4935933
+298,ParallelScavenge,Allocation Failure,185329912,4869558
+299,ParallelScavenge,Allocation Failure,185362680,4983694
+300,ParallelScavenge,Allocation Failure,185428216,5094882
+301,ParallelScavenge,Allocation Failure,185460984,3170864
+302,ParallelScavenge,Allocation Failure,185493752,4491493
+303,ParallelScavenge,Allocation Failure,185559288,6864455
+304,ParallelScavenge,Allocation Failure,185592056,4153670
+305,ParallelScavenge,System.gc(),168087000,6064525
+306,ParallelOld,System.gc(),98625784,187707618
+307,ParallelScavenge,Allocation Failure,183132480,5836515
+308,ParallelScavenge,Allocation Failure,183361856,5379978
+309,ParallelScavenge,Allocation Failure,183394624,6418805
+310,ParallelScavenge,Allocation Failure,183427392,4640900
+311,ParallelScavenge,Allocation Failure,183492928,4910083
+312,ParallelScavenge,Allocation Failure,183492928,6241471
+313,ParallelScavenge,Allocation Failure,183558464,4293555
+314,ParallelScavenge,Allocation Failure,183591232,3103555
+315,ParallelScavenge,Allocation Failure,183689536,5819203
+316,ParallelScavenge,Allocation Failure,183755072,5393930
+317,ParallelScavenge,Allocation Failure,183722304,7563280
+318,ParallelScavenge,Allocation Failure,183755072,4211563
+319,ParallelScavenge,Allocation Failure,183918912,5218830
+320,ParallelScavenge,System.gc(),170027272,6759005
+321,ParallelOld,System.gc(),96887104,200520429
+322,ParallelScavenge,Allocation Failure,183790184,5249636
+323,ParallelScavenge,Allocation Failure,182970984,2982171
+324,ParallelScavenge,Allocation Failure,182938216,4737629
+325,ParallelScavenge,Allocation Failure,183036520,3888346
+326,ParallelScavenge,Allocation Failure,183069288,3138957
+327,ParallelScavenge,Allocation Failure,184150632,5821971
+328,ParallelScavenge,Allocation Failure,184183400,3132172
+329,ParallelScavenge,Allocation Failure,184314472,5712020
+330,ParallelScavenge,Allocation Failure,184314472,3263186
+331,ParallelScavenge,Allocation Failure,184380008,5043844
+332,ParallelScavenge,Allocation Failure,184412776,6154190
+333,ParallelScavenge,Allocation Failure,184445544,5046514
+334,ParallelScavenge,Allocation Failure,184543848,5109510
+335,ParallelScavenge,System.gc(),170903424,6746855
+336,ParallelOld,System.gc(),97577576,188088412
+337,ParallelScavenge,Allocation Failure,184459488,6180315
+338,ParallelScavenge,Allocation Failure,184164576,3435134
+339,ParallelScavenge,Allocation Failure,184197344,2929637
+340,ParallelScavenge,Allocation Failure,184230112,7189455
+341,ParallelScavenge,Allocation Failure,184295648,4471438
+342,ParallelScavenge,Allocation Failure,184852704,3070054
+343,ParallelScavenge,Allocation Failure,184885472,3232644
+344,ParallelScavenge,Allocation Failure,184951008,5609501
+345,ParallelScavenge,Allocation Failure,184983776,4685972
+346,ParallelScavenge,Allocation Failure,185016544,5780990
+347,ParallelScavenge,Allocation Failure,185082080,3376390
+348,ParallelScavenge,Allocation Failure,185114848,6460469
+349,ParallelScavenge,Allocation Failure,185147616,7189239
+350,ParallelScavenge,System.gc(),168040936,6128398
+351,ParallelOld,System.gc(),98246880,163629673
+352,ParallelScavenge,Allocation Failure,185113704,3625990
+353,ParallelScavenge,Allocation Failure,185343080,2938514
+354,ParallelScavenge,Allocation Failure,185375848,6555870
+355,ParallelScavenge,Allocation Failure,185408616,3151589

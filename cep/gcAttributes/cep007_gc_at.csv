@@ -1,0 +1,27 @@
+GCId,Type,Cause,UsedHeap,PauseTime
+39,ParallelScavenge,Allocation Failure,326704448,4095094
+40,ParallelScavenge,Allocation Failure,335822176,5821846
+41,ParallelScavenge,Allocation Failure,335895904,6836040
+42,ParallelScavenge,Allocation Failure,330268000,3880021
+43,ParallelScavenge,Allocation Failure,325098848,10167175
+44,ParallelScavenge,Allocation Failure,319962464,4036798
+45,ParallelScavenge,System.gc(),156383480,5305143
+46,ParallelOld,System.gc(),97877344,230186208
+47,ParallelScavenge,Allocation Failure,307802448,6581138
+48,ParallelScavenge,Allocation Failure,303649104,4924867
+49,ParallelScavenge,Allocation Failure,299233616,5149925
+50,ParallelScavenge,Allocation Failure,294654288,6861216
+51,ParallelScavenge,Allocation Failure,290566480,6651993
+52,ParallelScavenge,System.gc(),268027912,7265980
+53,ParallelOld,System.gc(),92057936,265880256
+54,ParallelScavenge,Allocation Failure,286364656,6762960
+55,ParallelScavenge,Allocation Failure,282473456,5233670
+56,ParallelScavenge,Allocation Failure,278352880,5375520
+57,ParallelScavenge,Allocation Failure,274781168,7173850
+58,ParallelScavenge,Allocation Failure,271242224,3334813
+59,ParallelScavenge,Allocation Failure,267670512,5470540
+60,ParallelScavenge,System.gc(),191829360,6529745
+61,ParallelOld,System.gc(),92697584,170324599
+62,ParallelScavenge,Allocation Failure,263971160,6907405
+63,ParallelScavenge,Allocation Failure,261063000,4042999
+64,ParallelScavenge,Allocation Failure,258056536,4592946

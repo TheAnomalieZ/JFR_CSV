@@ -1,0 +1,78 @@
+GCId,Type,Cause,UsedHeap,PauseTime
+332,ParallelScavenge,Allocation Failure,189258616,5736686
+333,ParallelScavenge,Allocation Failure,190012280,3073434
+334,ParallelScavenge,Allocation Failure,190077816,3504112
+335,ParallelScavenge,Allocation Failure,190634872,3452252
+336,ParallelScavenge,Allocation Failure,190765944,3043098
+337,ParallelScavenge,Allocation Failure,191290232,4084318
+338,ParallelScavenge,Allocation Failure,191257464,2665209
+339,ParallelScavenge,Allocation Failure,190274424,3123382
+340,ParallelScavenge,Allocation Failure,189291384,3064513
+341,ParallelScavenge,Allocation Failure,188341112,4393080
+342,ParallelScavenge,Allocation Failure,187325304,3824998
+343,ParallelScavenge,Allocation Failure,186252152,6777801
+344,ParallelScavenge,Allocation Failure,191069048,3693281
+345,ParallelScavenge,System.gc(),107551432,6250590
+346,ParallelOld,System.gc(),98302840,200298953
+347,ParallelScavenge,Allocation Failure,187431592,2864157
+348,ParallelScavenge,Allocation Failure,188152488,5673524
+349,ParallelScavenge,Allocation Failure,188218024,3028097
+350,ParallelScavenge,Allocation Failure,188775080,4159837
+351,ParallelScavenge,Allocation Failure,188840616,2461942
+352,ParallelScavenge,Allocation Failure,189430440,3548540
+353,ParallelScavenge,Allocation Failure,189430440,3058444
+354,ParallelScavenge,Allocation Failure,188480168,5361800
+355,ParallelScavenge,Allocation Failure,187464360,3188505
+356,ParallelScavenge,Allocation Failure,186448552,4889451
+357,ParallelScavenge,Allocation Failure,185465512,3989225
+358,ParallelScavenge,Allocation Failure,184416936,2889131
+359,ParallelScavenge,Allocation Failure,189233832,5378317
+360,ParallelScavenge,System.gc(),109440712,4723132
+361,ParallelOld,System.gc(),96434856,148537767
+362,ParallelScavenge,Allocation Failure,188092248,6680420
+363,ParallelScavenge,Allocation Failure,188813184,3924186
+364,ParallelScavenge,Allocation Failure,188878720,2967991
+365,ParallelScavenge,Allocation Failure,189403008,3629402
+366,ParallelScavenge,Allocation Failure,189501312,2992600
+367,ParallelScavenge,Allocation Failure,190091136,3615064
+368,ParallelScavenge,Allocation Failure,190091136,6902830
+369,ParallelScavenge,Allocation Failure,189108096,6010075
+370,ParallelScavenge,Allocation Failure,188125056,4897181
+371,ParallelScavenge,Allocation Failure,187109248,4868175
+372,ParallelScavenge,Allocation Failure,186158976,2980917
+373,ParallelScavenge,Allocation Failure,185061248,6986605
+374,ParallelScavenge,Allocation Failure,189910912,3329137
+375,ParallelScavenge,System.gc(),109997288,2644281
+376,ParallelOld,System.gc(),97111936,120578170
+377,ParallelScavenge,Allocation Failure,188747440,2505296
+378,ParallelScavenge,Allocation Failure,189468336,3268876
+379,ParallelScavenge,Allocation Failure,189468336,2950095
+380,ParallelScavenge,Allocation Failure,190090928,5512511
+381,ParallelScavenge,Allocation Failure,190156464,4050378
+382,ParallelScavenge,Allocation Failure,190746288,2930858
+383,ParallelScavenge,Allocation Failure,190779056,6875890
+384,ParallelScavenge,Allocation Failure,189763248,5042282
+385,ParallelScavenge,Allocation Failure,188780208,4459068
+386,ParallelScavenge,Allocation Failure,187797168,3848738
+387,ParallelScavenge,Allocation Failure,186846896,5992010
+388,ParallelScavenge,Allocation Failure,185724592,3224153
+389,ParallelScavenge,Allocation Failure,190574256,2975169
+390,ParallelScavenge,System.gc(),107044856,3814976
+391,ParallelOld,System.gc(),97808048,130157910
+392,ParallelScavenge,Allocation Failure,187071280,5523737
+393,ParallelScavenge,Allocation Failure,187792176,3425960
+394,ParallelScavenge,Allocation Failure,187824944,4007575
+395,ParallelScavenge,Allocation Failure,188414768,3044678
+396,ParallelScavenge,Allocation Failure,188447536,5615158
+397,ParallelScavenge,Allocation Failure,189070128,4324330
+398,ParallelScavenge,Allocation Failure,189102896,2494618
+399,ParallelScavenge,Allocation Failure,188095280,2841348
+400,ParallelScavenge,Allocation Failure,187112240,5089860
+401,ParallelScavenge,Allocation Failure,186096432,3123716
+402,ParallelScavenge,Allocation Failure,185113392,6345865
+403,ParallelScavenge,Allocation Failure,184105776,3099429
+404,ParallelScavenge,Allocation Failure,188922672,3064846
+405,ParallelScavenge,System.gc(),109059176,3300952
+406,ParallelOld,System.gc(),96123696,128797112
+407,ParallelScavenge,Allocation Failure,187722784,2897430
+408,ParallelScavenge,Allocation Failure,188443680,3147661

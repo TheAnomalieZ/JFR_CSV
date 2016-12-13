@@ -1,0 +1,29 @@
+GCId,Type,Cause,UsedHeap,PauseTime
+8,ParallelScavenge,Heap Inspection Initiated GC,190798648,193001032
+9,ParallelOld,Heap Inspection Initiated GC,187244728,1827437320
+10,ParallelScavenge,Allocation Failure,233249688,258777408
+11,ParallelScavenge,Allocation Failure,303592512,556035680
+12,ParallelScavenge,Allocation Failure,374976936,816427655
+13,ParallelOld,Ergonomics,339006992,9968857032
+14,ParallelScavenge,Allocation Failure,433549568,759504680
+15,ParallelScavenge,Allocation Failure,513461528,744557424
+16,ParallelScavenge,Allocation Failure,526409992,697011575
+17,ParallelScavenge,Allocation Failure,608206936,821600064
+18,ParallelOld,Ergonomics,531834440,10285054845
+19,ParallelScavenge,Allocation Failure,591922960,1141289277
+20,ParallelScavenge,Allocation Failure,679839704,824476792
+21,ParallelScavenge,Allocation Failure,793089360,1332861040
+22,ParallelOld,Ergonomics,727504272,13215618666
+23,ParallelScavenge,Allocation Failure,834846952,1804928464
+24,ParallelScavenge,Allocation Failure,930336048,954468820
+25,ParallelScavenge,Allocation Failure,1051608024,977114952
+26,ParallelOld,Ergonomics,951261080,21619846240
+27,ParallelScavenge,Allocation Failure,1124659840,1608158647
+28,ParallelScavenge,Allocation Failure,1196245736,769800623
+29,ParallelScavenge,Allocation Failure,1298944304,915674372
+30,ParallelScavenge,Allocation Failure,1398124456,2072969656
+31,ParallelOld,Ergonomics,1326117880,30740945833
+32,ParallelScavenge,Allocation Failure,1484070888,2693574382
+33,ParallelOld,Ergonomics,1416028392,20361030227
+34,ParallelOld,Ergonomics,1642104184,34922961572
+35,ParallelOld,Heap Inspection Initiated GC,1489994424,37890165960

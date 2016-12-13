@@ -1,0 +1,4 @@
+GCId,Type,Cause,UsedHeap,PauseTime
+36,ParallelScavenge,Allocation Failure,339557960,11709019
+37,ParallelScavenge,Allocation Failure,340490376,15762026
+38,ParallelScavenge,Allocation Failure,349582552,28200570
